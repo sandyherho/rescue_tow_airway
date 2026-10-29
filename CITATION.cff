@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "rescue_tow_airway: airway submersion of an unconscious scuba diver during a surface tow in idealized random seas"
+type: software
+license: MIT
+version: 0.1.0
+date-released: 2026-10-28
+repository-code: "https://github.com/sandyherho/rescue_tow_airway"
+keywords:
+  - scuba diving
+  - diver rescue
+  - seakeeping
+  - random waves
+  - stochastic dynamics
+  - Rice formula
+authors:
+  - family-names: Herho
+    given-names: Sandy H. S.
+    affiliation: "Applied Geology Research Group, Bandung Institute of Technology"
+    email: sandyherho@itb.ac.id
+  - family-names: Susanto
+    given-names: Raden Dwi
+    affiliation: "Department of Atmospheric and Oceanic Science, University of Maryland, College Park, Maryland"
+    email: dwisusa@umd.edu
+  - family-names: Biosa
+    given-names: Sito F.
+    affiliation: "BINUS University"
+  - family-names: Suwarman
+    given-names: Rusmawan
+  - family-names: Irawan
+    given-names: Dasapta E.
+    affiliation: "Applied Geology Research Group, Bandung Institute of Technology"
