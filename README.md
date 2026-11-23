@@ -14,8 +14,10 @@
 
 Supplementary code for the manuscript
 
-> **Airway submersion during the surface tow of an unconscious scuba diver: a stochastic strip-theory model in idealized seas**
-> Sandy H. S. Herho, Raden Dwi Susanto, Sito F. Biosa, Rusmawan Suwarman, and Dasapta E. Irawan
+> **An Idealized Model of Airway Submersion of a Towed Unconscious Scuba
+Diver in Random Waves**
+>
+> Sandy H. S. Herho, Faizal A. R. Abdullah, Iwan P. Anwar, Raden Dwi Susanto, Mukti D. Wilopo, Sito F. Biosa, Rusmawan Suwarman, Deny J. Puradimaja, and Dasapta E. Irawan
 
 After an unconscious diver is brought to the surface, the rescuer must keep the airway out of the water while towing and giving rescue breaths. Rescue training treats this as a matter of technique. This repository treats it as a problem in wave mechanics: the victim is a floating body forced by random waves and towed by the rescuer, and the quantity of interest is the height of the mouth and nose above the local water surface. Every rescue question (which way to tow, how fast, how much air to put in the BCD, when to give a breath, where to wait at the boat) becomes a question about the statistics of that one signal.
 
@@ -214,7 +216,22 @@ If you use this code, please cite the manuscript and this repository (see `CITAT
 
 ## Acknowledgments
 
-This work was supported by the Faculty of Earth Sciences and Technology (FITB), Bandung Institute of Technology (ITB), through the PPMI Research Program 2026 (Project ID FITB.PPMI-1-19-2026). We are especially grateful to Andini Alifah (SSI PRO 124122, Mazu Divers) for instruction in the rescue diver course, whose emphasis on keeping a victim's airway clear while towing and ventilating at the surface motivated this study. We thank Jemi Godjali (INA.F00.B3.0091, POSSI Board of Instructors), Mat Ningrum (INA.F00.B1.0375, Instrument Dive Adventure), Saep Saepudin (INA.F00.B1.0396, Indonesian Navy), and Subagiyo (INA.F00.B1.0412, Indonesian Navy) for their guidance, support, and expertise in basic and advanced scuba diving training.
+This study was supported by the Faculty of Earth Sciences and Technology
+(FITB), Bandung Institute of Technology, through the PPMI Research
+Program 2026 (Project ID FITB.PPMI-1-19-2026). We especially thank Andini
+Alifah (SSI PRO 124122, Mazu Divers) for her patient, careful, and encouraging instruction in the
+SSI Diver Stress and Rescue course. We also thank Jemi Godjali
+(INA.F00.B3.0091, Board of Instructors of the Indonesian Subaquatic Sports
+Association, POSSI), Mat Ningrum (INA.F00.B1.0375, Instrument Dive Adventure), Saep Saepudin
+(INA.F00.B1.0396, Indonesian Navy), and Subagiyo (INA.F00.B1.0412,
+Indonesian Navy) for their guidance during our basic and advanced scuba
+training. This study uses no external data. The `rescue_tow_airway` library, the scripts that regenerate every
+result, and the data behind each figure are available at
+https://github.com/sandyherho/rescue_tow_airway under the MIT
+License. The authors used Claude Sonnet 5 solely to refine the English
+grammar and vocabulary of the manuscript and take full responsibility for
+its content.
+
 
 ## License
 
